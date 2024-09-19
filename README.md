@@ -1,16 +1,18 @@
-<h1 align="left">Hey 👋 Como vai?</h1>
+<h1 align="left">Hello, World! 🙋🏻‍♀️ Sou Mariana Coutinho.</h1>
 
 ###
 
-<p align="left">Meu nome é Mariana e sou uma estudante de Cibersegurança do Rio de Janeiro.</p>
+<h3 align="left">Desenvolvedora Back-End entusiasta de tecnologia e inovação, usando da criatividade para soluções eficientes.</h3>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<p align="left">🎓 Cursando Cibersegurança na Anhanguera<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>📖 Meu hobbie favorito é a leitura (principalmente de fantasia).<br>🌷 Curiosidade: tenho tatuado um dinossauro andando de skate em homenagem ao meu filho.</p>
 
 ###
 
-<p align="left">✨ Sou apaixonada por programação.<br>📚 Amo leitura (principalmente de fantasia).<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>🎲 Fun fact: tenho tatuado um dino andando de skate em homenagem ao meu filho.</p>
+<div align="left">
+  <img height="200" src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif?cid=790b7611sno0n7k6naayzlyzjolvoq9s00qzblm63h4vur3y&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
@@ -46,6 +48,10 @@
 
 ###
 
+<h2 align="left">Minhas Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -55,23 +61,22 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif?cid=790b761199to2nnecsbx4nmw6655jvathpgtxbjs32wh0pow&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/marianacout" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:marianacout3@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://mulheresdeproduto.slack.com/team/U077F1YDLSK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+  <a href="https://www.instagram.com/maaricoutt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
