@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Cursando Cibersegurança na Anhanguera<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>📖 Meu hobbie favorito é a leitura (principalmente de fantasia).<br>🌷 Curiosidade: tenho tatuado um dinossauro andando de skate em homenagem ao meu filho.</p>
+<p align="left">🎓 Graduanda em Cibersegurança na Anhanguera<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>📖 Meu hobbie favorito é a leitura (principalmente de fantasia).<br>🌷 Curiosidade: tenho tatuado um dinossauro andando de skate em homenagem ao meu filho.</p>
 
 ###
 
