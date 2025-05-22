@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Desenvolvedora Back-End entusiasta de tecnologia e inovação, usando da criatividade para soluções eficientes.</h3>
+<h3 align="left">Analista de Segurança da Informação focada em gestão de riscos e proteção de dados, unindo tecnologia, estratégia e comunicação para ambientes mais seguros.</h3>
 
 ###
 
-<p align="left">🎓 Graduanda em Cibersegurança na Anhanguera<br>🎯 Tenho como objetivo construir uma carreira sólida e fazer a diferença no mercado de Desenvolvedores.<br>📖 Meu hobbie favorito é a leitura (principalmente de fantasia).<br>🌷 Curiosidade: tenho tatuado um dinossauro andando de skate em homenagem ao meu filho.</p>
+<p align="left">🎓 Graduanda em Cibersegurança na Anhanguera<br>📌 Atualmente focada em análise e gestão de riscos em Segurança da Informação, com interesse especial por políticas de proteção de dados, conformidade e conscientização de usuários.<br>📖 Meu hobbie favorito é a leitura (principalmente de fantasia).<br>🌷 Curiosidade: tenho tatuado um dinossauro andando de skate em homenagem ao meu filho.</p>
 
 ###
 
